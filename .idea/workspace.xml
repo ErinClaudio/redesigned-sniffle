@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e297439-b308-48c9-889a-49057048cbde" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dEEvboQSGULHIrGsJuLKEfbGMD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for blog_test.BlogTest">
+    <configuration name="Unittests for blog_test.BlogTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testing_V2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blog/tests/unit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;blog_test.BlogTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for post_test.PostTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testing_V2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blog/tests/unit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;post_test.PostTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in post_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="testing_V2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blog/tests/unit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/blog/tests/unit/post_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for blog_test.BlogTest" />
+        <item itemvalue="Python tests.Unittests for post_test.PostTest" />
+        <item itemvalue="Python tests.Unittests in post_test.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e297439-b308-48c9-889a-49057048cbde" name="Default Changelist" comment="" />
+      <created>1591982085978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591982085978</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1403" height="176" key="GridCell.Tab.0.bottom" timestamp="1591989996658">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1403" height="176" key="GridCell.Tab.0.bottom/74.-745.1366.745/0.0.1440.900@0.0.1440.900" timestamp="1591989996658" />
+    <state width="1403" height="344" key="GridCell.Tab.0.bottom/74.-768.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1591982802150" />
+    <state width="1403" height="176" key="GridCell.Tab.0.center" timestamp="1591989996654">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1403" height="176" key="GridCell.Tab.0.center/74.-745.1366.745/0.0.1440.900@0.0.1440.900" timestamp="1591989996654" />
+    <state width="1403" height="344" key="GridCell.Tab.0.center/74.-768.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1591982802146" />
+    <state width="1403" height="176" key="GridCell.Tab.0.left" timestamp="1591989996652">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1403" height="176" key="GridCell.Tab.0.left/74.-745.1366.745/0.0.1440.900@0.0.1440.900" timestamp="1591989996652" />
+    <state width="1403" height="344" key="GridCell.Tab.0.left/74.-768.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1591982802145" />
+    <state width="1403" height="176" key="GridCell.Tab.0.right" timestamp="1591989996655">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1403" height="176" key="GridCell.Tab.0.right/74.-745.1366.745/0.0.1440.900@0.0.1440.900" timestamp="1591989996655" />
+    <state width="1403" height="344" key="GridCell.Tab.0.right/74.-768.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1591982802148" />
+    <state x="163" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1591982142230">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="163" y="167" key="com.intellij.ide.util.TipDialog/74.-768.1366.768/0.0.1440.900@0.0.1440.900" timestamp="1591982142230" />
+  </component>
+</project>
